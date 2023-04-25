@@ -14,7 +14,7 @@ def hello_user():
                 print("Отлично!")
                 break
     except KeyboardInterrupt:
-        print("\nПока!")
+        print("Пока!")
         break
 
 
